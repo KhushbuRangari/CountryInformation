@@ -35,7 +35,7 @@ async function fetchData() {
 
 
     const len = data.length;
-    const randomNo = Math.floor(Math.random() * len)
+
     //     qContainer.innerHTML =` <p>The Country Name is ${data[randomNo].name.common} with the population ${data[randomNo].population}</p>
     //    `
     qContainer.innerHTML = ` 
